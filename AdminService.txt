@@ -1,0 +1,7 @@
+add and remove users
+change the nicknames
+manage the database
+closing the mysql database connection
+
+change 1
+change 2 in ujju database
